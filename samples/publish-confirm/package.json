@@ -4,14 +4,14 @@
   "private": true,
   "scripts": {
     "start": "parcel src/index.html",
-    "build": "rimraf build/* && parcel build src/index.jsx -d ./build --no-source-maps && node build.js && rimraf build/index.js",
+    "build": "rimraf build/* && parcel build src/index.js -d ./build --no-source-maps && node build.js && rimraf build/index.js && rimraf build/index.css",
     "extension:create": "contentful extension create",
     "extension:update": "contentful extension update --force",
     "extension:local": "contentful extension update --force --src http://localhost:1234/"
   },
   "dependencies": {
     "@contentful/forma-36-fcss": "0.0.11",
-    "@contentful/forma-36-react-components": "2",
+    "@contentful/forma-36-react-components": "2.4.1",
     "contentful-ui-extensions-sdk": "3.5.0",
     "react": "16.8.2",
     "react-dom": "16.8.2",

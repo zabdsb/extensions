@@ -711,7 +711,7 @@
     postcss-calc "^7.0.1"
     postcss-css-variables "^0.11.0"
 
-"@contentful/forma-36-react-components@2":
+"@contentful/forma-36-react-components@2.4.1":
   version "2.4.1"
   resolved "https://registry.yarnpkg.com/@contentful/forma-36-react-components/-/forma-36-react-components-2.4.1.tgz#791327ccdd504b8faa97c2cd6f92031c881a2c2c"
   integrity sha512-mjAsngoHH59DYy2qt/tWjHvOOyvKv/UcHdJgcctqy1e9GDoB42ChqMnpEJz3X9OfSGXZye+CLaTFBjSP2bMwIw==
