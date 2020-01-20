@@ -35,7 +35,7 @@
     "react-sortable-hoc": "1.9.1"
   },
   "scripts": {
-    "prestart": "contentful extension update --src https://34.89.72.231 --force",
+    "prestart": "contentful extension update --src https://34.89.72.231:1234 --force",
     "start": "contentful-extension-scripts start --https",
     "build": "contentful-extension-scripts build",
     "deploy": "npm run build && contentful extension update --force",
