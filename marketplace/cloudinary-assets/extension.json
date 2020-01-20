@@ -1,6 +1,6 @@
 {
   "id": "cloudinary-assets",
-  "name": "cloudinary-assets",
+  "name": "Cloudinary Assets Picker V 1.0",
   "srcdoc": "./build/index.html",
   "fieldTypes": ["Object"],
   "parameters": {

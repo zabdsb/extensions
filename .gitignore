@@ -8,3 +8,5 @@ samples/.vscode/settings.json
 coverage/
 .contentfulrc.json
 marketplace/**/build/
+.DS_Store
+.gitignore
